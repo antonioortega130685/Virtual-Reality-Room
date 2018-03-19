@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VRCanvas.cs">
+    <Files>
+      <File FileName="Assets\GazeableButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Floor.cs" Line="1" Column="1" />
+      <File FileName="Assets\DragZone.cs" Line="40" Column="47" />
+      <File FileName="Assets\VRCanvas.cs" Line="50" Column="32" NotebookId="1" />
+      <File FileName="Assets\ModeButton.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Player.cs" Line="14" Column="6" NotebookId="1" />
+      <File FileName="Assets\GazeSystem.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\GazeableObject.cs" Line="117" Column="25" NotebookId="1" />
+      <File FileName="Assets\ObjectsButton.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
